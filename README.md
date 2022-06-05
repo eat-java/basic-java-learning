@@ -11,4 +11,5 @@ git checkout -b feature/주차_이름_문제
 git commit -a -m "1주차 1번 문제 풀이"
 git push
 ```
-위 작업이 끝나고 우리의 저장소에 접속하 pull request가 활성화된 것을 확인할 수 있습니다. 
+위 작업이 끝나고 우리의 저장소에 접속하면 pull request가 활성화된 것을 확인할 수 있습니다. 
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/85115174/172055710-c1b96cf5-ce1d-465e-97cf-33c2a856b2ae.png">
